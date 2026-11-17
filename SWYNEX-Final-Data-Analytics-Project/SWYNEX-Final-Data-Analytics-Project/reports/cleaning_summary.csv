@@ -1,0 +1,8 @@
+Metric,Value
+Original Rows,541909
+Duplicate Rows Removed,5268
+Final Rows,536641
+Final Columns,11
+Missing CustomerIDs,135037
+Remaining Duplicate Records,0
+Transaction Categories,5
